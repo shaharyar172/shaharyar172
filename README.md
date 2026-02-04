@@ -1,3 +1,6 @@
+### 🔗 Professional Profile
+- LinkedIn: https://www.linkedin.com/in/muhammad-shaharyar--22a066270
+
 # Hi, I'm Muhammad Shaharyar 👋
 
 I’m an IT career switcher and WGU Computer Science student building hands-on labs to learn real-world system administration and networking.
