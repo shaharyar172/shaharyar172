@@ -23,3 +23,8 @@ Built a Windows 11 Enterprise VM lab in VirtualBox and resolved boot failures ca
 
 ## Contact
 - Email: shaharyarm820@gmail.com
+- ## 📜 Certifications
+
+- 🎓 Google IT Support Professional Certificate (In Progress)
+  - ✅ Technical Support Fundamentals (Completed Feb 2026)
+
